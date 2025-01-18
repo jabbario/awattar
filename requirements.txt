@@ -7,11 +7,12 @@ loguru
 matplotlib
 seaborn
 notebook
-numpy
+numpy==1.24.3
 pandas
 pip
 python-dotenv
 scikit-learn
 tqdm
 typer
+tslearn==0.6.1
 -e .
