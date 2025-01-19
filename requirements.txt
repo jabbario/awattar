@@ -15,4 +15,5 @@ scikit-learn
 tqdm
 typer
 tslearn==0.6.1
+aeon
 -e .
